@@ -32,6 +32,8 @@ This application uses **React** for the frontend, **Socket.IO** for real-time co
 
 ## Getting Started
 
+Go to https://stngtask.netlify.app/ or...
+
 ### Prerequisites
 
 Ensure you have the following installed:
