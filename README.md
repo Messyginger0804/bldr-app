@@ -136,9 +136,40 @@ npm run build
 
 ## Future Enhancements
 
-- Add user authentication and database integration for persistent storage.
-- Implement more granular roles and permissions.
-- Enhance UI with animations and improved accessibility.
+Here are some potential future enhancements for the Starfleet Task Manager to make it even more powerful and user-friendly:
+
+1. **Task Completion Checkmarks:**
+   - Add a checkbox to each task or bullet point to mark it as completed. Once checked, the task or bullet point could be visually crossed out or dimmed to indicate completion.
+
+2. **Subtasks and Nested Tasks:**
+   - Allow users to convert bullet points into subtasks, creating a hierarchical structure for more complex task management.
+   - Enable dragging and dropping tasks or subtasks to reorder them or move them under different parent tasks.
+
+3. **Task Prioritization:**
+   - Add the ability to assign priority levels (e.g., Low, Medium, High) to tasks, with visual indicators like colored labels or icons.
+
+4. **Task Deadlines and Reminders:**
+   - Introduce due dates for tasks and subtasks, with optional reminders or notifications as deadlines approach.
+
+5. **Task Categories or Tags:**
+   - Allow users to categorize tasks using tags or labels (e.g., "fron end," "backend," "Urgent") for better organization and filtering.
+
+6. **Task Comments and Collaboration:**
+   - Add a commenting system to tasks, enabling users to discuss specific tasks or provide additional context.
+
+7. **Task History and Audit Logs:**
+   - Implement a history log that tracks changes made to tasks (e.g., who added, updated, or deleted a task) for accountability and transparency.
+
+8. **Advanced Search and Filtering:**
+   - Add a search bar and filtering options to quickly find tasks by keywords, tags, priority, or due date.
+
+9. **Accessibility Improvements:**
+    - Ensure the app is fully accessible by following WCAG guidelines, including keyboard navigation and screen reader support.
+
+10. **Task Templates:**
+    - Allow users to create and save task templates for recurring workflows or projects.
+
+
 
 ## License
 
